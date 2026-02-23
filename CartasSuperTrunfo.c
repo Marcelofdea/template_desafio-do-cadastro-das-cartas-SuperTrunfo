@@ -43,7 +43,7 @@ int main() {
   printf("Área (em km2; use ponto como separador decimal, ex.: 123.45): ");
   scanf(" %f", &area1);
 
-  // Importante: use ponto como separador decimal (ex.: 699.28)
+  // Importante: use ponto como separador decimal (ex.: 123.45)
   printf("PIB (em bilhões de reais; use ponto como separador decimal, ex.: 123.45): ");
   scanf(" %f", &pib1);
 
@@ -68,7 +68,7 @@ int main() {
   printf("Área (em km2; use ponto como separador decimal, ex.: 123.45): ");
   scanf(" %f", &area2);
 
-  // Importante: use ponto como separador decimal (ex.: 1521.11)
+  // Importante: use ponto como separador decimal (ex.: 123.45)
   printf("PIB (em bilhões de reais; use ponto como separador decimal, ex.: 123.45): ");
   scanf(" %f", &pib2);
 
